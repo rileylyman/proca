@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "editor.tabSize": 2,
+    "editor.inlayHints.enabled": "off"
+}
